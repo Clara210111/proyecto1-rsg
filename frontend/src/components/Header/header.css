@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #10151e;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  .header-left {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .header-left a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header-right span {
+    color: #fff;
+  }
+  
